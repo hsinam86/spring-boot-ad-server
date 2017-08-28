@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="592" started-at="2017-08-27T23:55:03Z" finished-at="2017-08-27T23:55:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="592" started-at="2017-08-27T23:55:03Z" finished-at="2017-08-27T23:55:04Z">
+      <class name="com.ad.server.test.AdvertiseControllerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ad.server.test.AdvertiseControllerTest@157632c9]" name="setUp" is-config="true" duration-ms="482" started-at="2017-08-27T19:55:03Z" finished-at="2017-08-27T19:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforePowerMockTestClass()[pri:0, instance:com.ad.server.test.AdvertiseControllerTest@157632c9]" name="beforePowerMockTestClass" is-config="true" duration-ms="5" started-at="2017-08-27T19:55:04Z" finished-at="2017-08-27T19:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforePowerMockTestClass -->
+        <test-method status="PASS" signature="beforePowerMockTestMethod()[pri:0, instance:com.ad.server.test.AdvertiseControllerTest@157632c9]" name="beforePowerMockTestMethod" is-config="true" duration-ms="44" started-at="2017-08-27T19:55:04Z" finished-at="2017-08-27T19:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforePowerMockTestMethod -->
+        <test-method status="PASS" signature="testAdvertiseGet()[pri:0, instance:com.ad.server.test.AdvertiseControllerTest@157632c9]" name="testAdvertiseGet" duration-ms="46" started-at="2017-08-27T19:55:04Z" finished-at="2017-08-27T19:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdvertiseGet -->
+        <test-method status="PASS" signature="afterPowerMockTestMethod()[pri:0, instance:com.ad.server.test.AdvertiseControllerTest@157632c9]" name="afterPowerMockTestMethod" is-config="true" duration-ms="1" started-at="2017-08-27T19:55:04Z" finished-at="2017-08-27T19:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterPowerMockTestMethod -->
+        <test-method status="PASS" signature="afterPowerMockTestClass()[pri:0, instance:com.ad.server.test.AdvertiseControllerTest@157632c9]" name="afterPowerMockTestClass" is-config="true" duration-ms="0" started-at="2017-08-27T19:55:04Z" finished-at="2017-08-27T19:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterPowerMockTestClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ad.server.test.AdvertiseControllerTest@157632c9]" name="tearDown" is-config="true" duration-ms="1" started-at="2017-08-27T19:55:04Z" finished-at="2017-08-27T19:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ad.server.test.AdvertiseControllerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

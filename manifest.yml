@@ -1,0 +1,9 @@
+---
+applications:
+- name: spring-boot-ad-server
+  host: spring-boot-ad-server
+  buildpack: java-buildpack
+  memory: 1024M
+  instances: 1
+  path: target/spring-boot-ad-server-1.0-boot.jar
+  
